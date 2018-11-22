@@ -1,0 +1,4 @@
+Added Component: Designator=J2(HEADER_2PINS)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=PB1 Pin=J2-2

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=RETURN Pin=K1-3
+Added Pin To Net: NetName=RETURN Pin=K1-5
+Added Pin To Net: NetName=NetK1_3 Pin=K1-3
+Added Pin To Net: NetName=NetK1_3 Pin=K1-10
+Added Net: Name=NetK1_3

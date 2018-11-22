@@ -1,0 +1,4 @@
+Change Physical Footprint: Designator=GAIN1 Old Footprint=ALPHA_16mm_BOTTOM New Footprint=ALPHA_16mm_BOTTOM
+Change Physical Footprint: Designator=PRES1 Old Footprint=ALPHA_16mm_BOTTOM New Footprint=ALPHA_16mm_BOTTOM
+Change Physical Footprint: Designator=TONE1 Old Footprint=ALPHA_16mm_BOTTOM New Footprint=ALPHA_16mm_BOTTOM
+Change Physical Footprint: Designator=VOL1 Old Footprint=ALPHA_16mm_BOTTOM New Footprint=ALPHA_16mm_BOTTOM

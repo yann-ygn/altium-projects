@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC11_2 Pin=R13-1
+Removed Pin From Net: NetName=NetD3_C Pin=R13-2
+Added Component: Designator=C?(CER_050)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetIC1_7 Pin=C?-1
+Added Pin To Net: NetName=NetC11_2 Pin=C?-2
+Added Pin To Net: NetName=NetD3_C Pin=R13-1
+Added Pin To Net: NetName=NetC11_2 Pin=R13-2
+Change Net Name : Old Net Name=NetIC1_7 New Net Name=NetC?_1

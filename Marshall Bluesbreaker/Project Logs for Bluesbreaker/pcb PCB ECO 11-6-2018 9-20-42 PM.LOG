@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetD?_C Pin=Q?-1
+Removed Pin From Net: NetName=MUTEOUT Pin=Q?-2
+Removed Pin From Net: NetName=RETURN Pin=Q?-3
+Added Pin To Net: NetName=RETURN Pin=Q?-1
+Added Pin To Net: NetName=NetD?_C Pin=Q?-2
+Added Pin To Net: NetName=MUTEOUT Pin=Q?-3

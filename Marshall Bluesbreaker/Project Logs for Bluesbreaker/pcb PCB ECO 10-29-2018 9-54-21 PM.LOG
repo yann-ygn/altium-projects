@@ -1,0 +1,8 @@
+Change Component Comment : Designator=J2 Old Comment=STEREO New Comment=
+Change Component Comment : Designator=J3 Old Comment=STEREO New Comment=
+Change Component Designator: OldDesignator=J2 NewDesignator=INPUT
+Change Component Designator: OldDesignator=J3 NewDesignator=OUTPUT
+Added Pin To Net: NetName=INPUT Pin=INPUT-T
+Added Net: Name=INPUT
+Added Pin To Net: NetName=OUTPUT Pin=OUTPUT-T
+Added Net: Name=OUTPUT

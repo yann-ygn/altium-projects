@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=INPUT Pin=K1-3
+Removed Pin From Net: NetName=MUTEOUT Pin=K1-5
+Removed Pin From Net: NetName=INPUT Pin=K1-8
+Removed Pin From Net: NetName=GND Pin=K1-10
+Added Pin To Net: NetName=MUTEOUT Pin=K1-3
+Added Pin To Net: NetName=INPUT Pin=K1-5
+Added Pin To Net: NetName=GND Pin=K1-8
+Added Pin To Net: NetName=INPUT Pin=K1-10

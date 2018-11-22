@@ -1,0 +1,10 @@
+Added Component: Designator=OK1(DIL4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OC_FARNELL"; Value = "unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OC_NEWARK"; Value = "unknown"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PB0 Pin=OK1-1
+Added Pin To Net: NetName=GND Pin=OK1-2
+Added Pin To Net: NetName=GND Pin=OK1-3
+Added Pin To Net: NetName=OUTPUT Pin=OK1-4

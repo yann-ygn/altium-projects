@@ -1,0 +1,11 @@
+Change Component Comment : Designator=LED Old Comment= New Comment=JST-XH-02
+Change Component Comment : Designator=SW Old Comment= New Comment=JST-XH-02
+Change Component Comment : Designator=TONE1 Old Comment=25kB New Comment=ALPHA_16mm
+Change Component Comment : Designator=PRES1 Old Comment=50kB New Comment=ALPHA_16mm
+Change Component Comment : Designator=VOL1 Old Comment=100kA New Comment=ALPHA_16mm
+Change Component Comment : Designator=GAIN1 Old Comment=250kB New Comment=ALPHA_16mm
+Added Component: Designator=J1(DC_JACK)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+9V Pin=J1-GND
+Added Pin To Net: NetName=GND Pin=J1-PWR
+Added Member To Class: ClassName=sch Member=Component J1 DC_JACK
