@@ -1,8 +1,0 @@
-Change Component Comment : Designator=LED Old Comment=JST-XH-02 New Comment=
-Change Component Comment : Designator=SW Old Comment=JST-XH-02 New Comment=
-Added Component: Designator=J2(STEREO)
-Add component. Clean all parameters for all variants
-Added Component: Designator=J3(STEREO)
-Add component. Clean all parameters for all variants
-Added Pin To Net: NetName=GND Pin=J2-S
-Added Pin To Net: NetName=GND Pin=J3-S
