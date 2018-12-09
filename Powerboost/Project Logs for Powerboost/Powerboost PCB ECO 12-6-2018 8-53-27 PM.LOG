@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=+5V Pin=D2-C
+Removed Pin From Net: NetName=+5V Pin=K1-1
+Removed Pin From Net: NetName=NetD2_A Pin=LED-2
+Removed Pin From Net: NetName=+5V Pin=R2-2
+Removed Member From Class: ClassName=Powerboost Member=LED
+Removed Member From Class: ClassName=Powerboost Member=R2
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C14
+Change Component Designator: OldDesignator=C14 NewDesignator=C15
+Change Component Designator: OldDesignator=C15 NewDesignator=C16
+Change Component Designator: OldDesignator=C16 NewDesignator=C17
+Change Component Designator: OldDesignator=C17 NewDesignator=C18
+Added Component: Designator=C6(ELEC_040_020)
+Add component. Clean all parameters for all variants
+Added Component: Designator=REG2(TO92)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C6--
+Added Pin To Net: NetName=+9V Pin=REG2-1
+Added Pin To Net: NetName=GND Pin=REG2-2
+Change Net Name : Old Net Name=NetC6_1 New Net Name=NetC7_1
+Change Net Name : Old Net Name=NetC7_+ New Net Name=NetC8_+
+Change Net Name : Old Net Name=NetC7_- New Net Name=NetC8_-
+Change Net Name : Old Net Name=NetC8_+ New Net Name=NetC9_+
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC10_1
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetC10_- New Net Name=NetC11_-
+Change Net Name : Old Net Name=NetC12_1 New Net Name=NetC13_1
+Change Net Name : Old Net Name=NetC13_1 New Net Name=NetC14_1
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetC14_1 New Net Name=NetC15_1
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetC15_2
+Change Net Name : Old Net Name=NetC15_+ New Net Name=NetC16_+
+Change Net Name : Old Net Name=NetC16_+ New Net Name=NetC17_+
+Change Net Name : Old Net Name=NetC17_- New Net Name=NetC18_-
+Added Pin To Net: NetName=NetC6_+ Pin=C6-+
+Added Pin To Net: NetName=NetC6_+ Pin=D2-C
+Added Pin To Net: NetName=NetC6_+ Pin=K1-1
+Added Pin To Net: NetName=NetC6_+ Pin=REG2-3
+Added Net: Name=NetC6_+
+Added Member To Class: ClassName=Powerboost Member=Component C6 10u
+Added Member To Class: ClassName=Powerboost Member=Component C18 4.7u
+Added Member To Class: ClassName=Powerboost Member=Component R4 2,2M
+Added Member To Class: ClassName=Powerboost Member=Component R5 120k
+Added Member To Class: ClassName=Powerboost Member=Component REG2 LM78L05
+Added Room: Name=Powerboost

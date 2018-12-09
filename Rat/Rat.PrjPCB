@@ -52,7 +52,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NXYRQBXR
+DocumentUniqueId=EUXPWGPT
 
 [Document2]
 DocumentPath=Rat.SchDoc
@@ -60,16 +60,16 @@ AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=APGDTYHK
+DocumentUniqueId=UENSDYNH
 
 [Configuration1]
 Name=Sources

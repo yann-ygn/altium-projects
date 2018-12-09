@@ -1,0 +1,130 @@
+Removed Pin From Net: NetName=GND Pin=GAIN-1
+Removed Pin From Net: NetName=GND Pin=GAIN-2
+Removed Pin From Net: NetName=GND Pin=VOL-1
+Removed Pin From Net: NetName=RETURN Pin=VOL-2
+Change Component Designator: OldDesignator=J2 NewDesignator=MODE
+Added Component: Designator=C1(ELEC_063_025)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(ELEC_LESR_050_020)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(FILMBOX_SMALL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(ELEC_LESR_050_020)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(FILMBOX_SMALL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(ELEC_LESR_050_020)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(FILMBOX_SMALL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(CER_050)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(FILMBOX_SMALL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(ELEC_LESR_040_020)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(CER_050)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(DO41_2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D?(DO35_2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D?(DO35_2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D?(DO35_2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D?(DO35_2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D?(LED_3MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D?(LED_3MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=GAIN?(ALPHA_16mm_BOTTOM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IC?(DIL8)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PRES?(ALPHA_16mm_BOTTOM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q?(TO92)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(R_3_1k_025W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(R_3_47R_025W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(R_3_560R_025W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(R_3_1.5k_025W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(R_3_1M_025W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(R_3_10k_025W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(R_3_1M_025W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(R_3_1M_025W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(R_3_1k_025W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW?(SPDT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SWEEP?(ALPHA_16mm_BOTTOM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VOL?(ALPHA_16mm_BOTTOM)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+9V Pin=C1-+
+Added Pin To Net: NetName=GND Pin=C1--
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=SEND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?--
+Added Pin To Net: NetName=GND Pin=C?--
+Added Pin To Net: NetName=GND Pin=D1-A
+Added Pin To Net: NetName=+9V Pin=D1-C
+Added Pin To Net: NetName=GND Pin=D?-ANODE
+Added Pin To Net: NetName=GND Pin=D?-A
+Added Pin To Net: NetName=GND Pin=D?-A
+Added Pin To Net: NetName=GND Pin=D?-C
+Added Pin To Net: NetName=GND Pin=D?-C
+Added Pin To Net: NetName=GND Pin=D?-P$1
+Added Pin To Net: NetName=GND Pin=IC?-4
+Added Pin To Net: NetName=Vr Pin=IC?-7
+Added Pin To Net: NetName=Vr Pin=Q?-3
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=SEND Pin=R?-2
+Added Pin To Net: NetName=RETURN Pin=VOL?-2
+Added Pin To Net: NetName=GND Pin=VOL?-3
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=IC?-8
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=GAIN?-2
+Added Pin To Net: NetName=NetC?_2 Pin=GAIN?-3
+Added Pin To Net: NetName=NetC?_2 Pin=IC?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-2
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetC?_+ Pin=C?-+
+Added Pin To Net: NetName=NetC?_+ Pin=Q?-2
+Added Pin To Net: NetName=NetC?_+ Pin=R?-2
+Added Net: Name=NetC?_+
+Added Pin To Net: NetName=NetC?_- Pin=C?--
+Added Pin To Net: NetName=NetC?_- Pin=VOL?-1
+Added Net: Name=NetC?_-
+Added Pin To Net: NetName=NetD?_A Pin=D?-A
+Added Pin To Net: NetName=NetD?_A Pin=D?-C
+Added Pin To Net: NetName=NetD?_A Pin=SW?-3
+Added Net: Name=NetD?_A
+Added Pin To Net: NetName=NetPRES?_2 Pin=PRES?-2
+Added Pin To Net: NetName=NetPRES?_2 Pin=PRES?-3
+Added Pin To Net: NetName=NetPRES?_2 Pin=R?-1
+Added Net: Name=NetPRES?_2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=SWEEP?-1
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=Vb Pin=R?-2
+Added Net: Name=Vb
+Added Class: Name=Rat
+Added Room: Name=Rat

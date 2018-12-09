@@ -1,0 +1,9 @@
+Added Component: Designator=LED(JST-XH-02)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(R_3_2,2k_025W)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=LED-2
+Added Pin To Net: NetName=PB3 Pin=R2-1
+Added Pin To Net: NetName=NetLED_1 Pin=LED-1
+Added Pin To Net: NetName=NetLED_1 Pin=R2-2
+Added Net: Name=NetLED_1
