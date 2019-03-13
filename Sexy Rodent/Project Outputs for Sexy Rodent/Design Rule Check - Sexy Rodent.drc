@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : Z:\Dev\01 - Altium\PCBs\Sexy Rodent\Sexy Rodent.PcbDoc
-Date     : 1/6/2019
-Time     : 4:44:03 PM
+Date     : 3/13/2019
+Time     : 9:34:01 PM
 
 Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
 Rule Violations :0
@@ -15,7 +15,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=6mil) (Max=400mil) (Preferred=8mil) (All)
+Processing Rule : Width Constraint (Min=10mil) (Max=32mil) (Preferred=10mil) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=16mil) (Conductor Width=6mil) (Air Gap=6mil) (Entries=4) (All)
@@ -57,4 +57,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
