@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : Z:\Dev\01 - Altium\PCBs\Sexy Rodent\Sexy Rodent.PcbDoc
-Date     : 3/13/2019
-Time     : 9:34:01 PM
+Date     : 3/17/2019
+Time     : 11:54:39 AM
 
 Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
 Rule Violations :0
@@ -57,4 +57,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00
