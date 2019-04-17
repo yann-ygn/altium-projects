@@ -76,6 +76,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KRZCSQXV
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Shredmaster\Design Rule Check - Shredmaster.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1495,16 +1499,16 @@ ModelType6=PCBLIB
 ModelName6=DIL8
 ModelUpdate6=1
 ModelType7=PCBLIB
-ModelName7=DIP8
+ModelName7=DIP_2WAY
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=DO35_2
+ModelName8=DIP8
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=DO41_2
+ModelName9=DO35_2
 ModelUpdate9=1
 ModelType10=PCBLIB
-ModelName10=DPDT
+ModelName10=DO41_2
 ModelUpdate10=1
 ModelType11=PCBLIB
 ModelName11=ELEC_040_020
