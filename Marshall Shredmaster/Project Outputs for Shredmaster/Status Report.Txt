@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Shredmaster.PrjPCB]
+   Generated File[Shredmaster.TXT]
+   Generated File[Shredmaster.LDP]
+   Generated File[Shredmaster.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:48:19 AM On 4/28/2019
