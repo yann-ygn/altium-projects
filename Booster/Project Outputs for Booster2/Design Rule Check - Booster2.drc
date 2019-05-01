@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : Z:\Dev\01 - Altium\PCBs\Booster\Booster2.PcbDoc
-Date     : 4/17/2019
-Time     : 7:59:01 PM
+Date     : 5/1/2019
+Time     : 9:20:03 PM
 
 Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
 Rule Violations :0
@@ -57,4 +57,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01

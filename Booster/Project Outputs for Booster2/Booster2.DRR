@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Booster2.PcbDoc   4/29/2019  10:36:40 PM
+NCDrill File Report For: Booster2.PcbDoc   5/1/2019  9:23:18 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,7 +8,7 @@ ASCII RoundHoles File : Booster2.TXT
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      16mil (0.4mm)                                             Round             48        PTH        0.00inch (0.00mm)
-T2      18mil (0.457mm)                                           Round             212       PTH        0.00inch (0.00mm)
+T2      18mil (0.457mm)                                           Round             211       PTH        0.00inch (0.00mm)
 T3      20mil (0.5mm)                                             Round             26        PTH        0.00inch (0.00mm)
 T4      24mil (0.6mm)                                             Round             22        PTH        0.00inch (0.00mm)
 T5      28mil (0.7mm)                                             Round             4         PTH        0.00inch (0.00mm)
@@ -20,6 +20,6 @@ T10     43mil (1.1mm)                                             Round         
 T11     55mil (1.4mm)                                             Round             12        PTH        0.00inch (0.00mm)
 T12     98mil (2.5mm)                                             Round             2         PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              380
+Totals                                                                              379
 
 Total Processing Time (hh:mm:ss) : 00:00:00
