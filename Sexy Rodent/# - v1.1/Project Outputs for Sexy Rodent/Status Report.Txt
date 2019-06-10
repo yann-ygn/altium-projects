@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Sexy Rodent.PrjPCB]
+   Generated File[Sexy Rodent.TXT]
+   Generated File[Sexy Rodent.LDP]
+   Generated File[Sexy Rodent.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:28:20 PM On 3/17/2019
