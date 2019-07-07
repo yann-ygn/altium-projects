@@ -2,51 +2,6 @@
 FileName = Panel.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : Panel.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-*************************************************************
-
-*************************************************************
 Generating : Top Overlay
       File : Panel.GTO
 
@@ -178,7 +133,7 @@ Generating : Bottom Overlay
 
 
 Used DCodes :
-    D44
+    D45
     D47
     D80
 *************************************************************
@@ -204,6 +159,51 @@ Generating : Route Tool Path
 
 Used DCodes :
     D82
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Panel.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
 *************************************************************
 
 *************************************************************
