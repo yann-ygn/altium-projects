@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Panel_2.PcbDoc   9/2/2019  8:56:55 PM
+NCDrill File Report For: Panel_2.PcbDoc   9/3/2019  8:29:16 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,7 +7,7 @@ ASCII RoundHoles File : Panel_2.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      14mil (0.35mm)                                            Round             412       PTH        0.00inch (0.00mm)
+T1      14mil (0.35mm)                                            Round             416       PTH        0.00inch (0.00mm)
 T2      20mil (0.5mm)                                             Round             6         PTH        0.00inch (0.00mm)
 T3      20mil (0.508mm)                                           Round             10        PTH        0.00inch (0.00mm)
 T4      32mil (0.8mm)                                             Round             12        PTH        0.00inch (0.00mm)
@@ -18,6 +18,6 @@ T8      55mil (1.4mm)                                             Round         
 T9      20mil (0.5mm)                                             Round             40        NPTH       0.00inch (0.00mm)
 T10     118mil (3mm)                                              Round             4         NPTH       0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              544
+Totals                                                                              548
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00

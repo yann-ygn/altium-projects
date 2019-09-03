@@ -1,14 +1,23 @@
 Source PCB Design Panel_2.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
 
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Sexy Rodent.PrjPCB]
-   Generated File[Panel_2.TXT]
-   Generated File[Panel_2.LDP]
-   Generated File[Panel_2.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Sexy Rodent.PrjPCB]
+   Generated File[Panel_2.GTO]
+   Generated File[Panel_2.GTP]
+   Generated File[Panel_2.GTS]
+   Generated File[Panel_2.GTL]
+   Generated File[Panel_2.GBL]
+   Generated File[Panel_2.GBS]
+   Generated File[Panel_2.GBO]
+   Generated File[Panel_2.GM3]
+   Generated File[Panel_2.GM4]
+   Generated File[Panel_2.RUL]
+   Generated File[Panel_2.EXTREP]
+   Generated File[Panel_2.REP]
 
 
-Files Generated   : 3
+Files Generated   : 12
 Documents Printed : 0
 
-Finished Output Generation At 5:48:19 PM On 9/3/2019
+Finished Output Generation At 8:34:13 PM On 9/3/2019
