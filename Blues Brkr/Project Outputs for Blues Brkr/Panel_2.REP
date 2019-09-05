@@ -2,6 +2,33 @@
 FileName = Panel_2.GBR
 AutoAperture = True
 *************************************************************
+Generating : Bottom Layer
+      File : Panel_2.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
 Generating : Top Layer
       File : Panel_2.GTL
 
@@ -210,32 +237,5 @@ Generating : Route Tool Path
 
 Used DCodes :
     D86
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Panel_2.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
 *************************************************************
 
