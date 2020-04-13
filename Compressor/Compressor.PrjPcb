@@ -45,7 +45,7 @@ ReleaseZipPath=[OutputPath][ProjectName].zip
 [Document1]
 DocumentPath=Compressor.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=101
+AnnotateStartValue=201
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=Only Selected Parts
