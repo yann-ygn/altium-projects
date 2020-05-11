@@ -1,4 +1,4 @@
-[Design]
+﻿[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -75,6 +75,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FFMOCGGW
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Delay\Design Rule Check - Delay.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
