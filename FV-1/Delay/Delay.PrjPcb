@@ -91,10 +91,14 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CKKXLHOI
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Delay\Design Rule Check - Delay.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Delay\Embedded Boards Stackup Compatibility - Panel.html
 DItemRevisionGUID=
 
 [Configuration1]
