@@ -2,6 +2,18 @@
 FileName = Panel.GBR
 AutoAperture = True
 *************************************************************
+Generating : Mid Layer 1
+      File : Panel.G1
+
+    Adding Layer      : Mid Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
 Generating : Bottom Layer
       File : Panel.GBL
 
@@ -14,7 +26,7 @@ Used DCodes :
     D10
     D39
     D40
-    D43
+    D41
     D50
     D51
     D52
@@ -51,25 +63,6 @@ Used DCodes :
     D63
     D64
     D65
-*************************************************************
-
-*************************************************************
-Generating : Mid Layer 1
-      File : Panel.G1
-
-    Adding Layer      : Mid Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D52
-    D53
-    D54
-    D58
-    D59
-    D62
-    D63
 *************************************************************
 
 *************************************************************
@@ -148,7 +141,7 @@ Generating : Top Solder
 Used DCodes :
     D10
     D50
-    D63
+    D64
     D75
     D76
     D77
@@ -208,7 +201,7 @@ Generating : Bottom Solder
 Used DCodes :
     D10
     D50
-    D63
+    D64
     D104
     D105
     D106

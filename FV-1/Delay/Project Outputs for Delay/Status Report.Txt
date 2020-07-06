@@ -1,14 +1,25 @@
 Source PCB Design Panel.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
 
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Delay.PrjPcb]
-   Generated File[Panel.TXT]
-   Generated File[Panel.LDP]
-   Generated File[Panel.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Delay.PrjPcb]
+   Generated File[Panel.GTO]
+   Generated File[Panel.GTP]
+   Generated File[Panel.GTS]
+   Generated File[Panel.GTL]
+   Generated File[Panel.G1]
+   Generated File[Panel.G2]
+   Generated File[Panel.GBL]
+   Generated File[Panel.GBS]
+   Generated File[Panel.GBO]
+   Generated File[Panel.GM3]
+   Generated File[Panel.GM4]
+   Generated File[Panel.RUL]
+   Generated File[Panel.EXTREP]
+   Generated File[Panel.REP]
 
 
-Files Generated   : 3
+Files Generated   : 14
 Documents Printed : 0
 
-Finished Output Generation At 8:02:06 PM On 7/1/2020
+Finished Output Generation At 1:49:27 PM On 7/6/2020
