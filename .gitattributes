@@ -2,4 +2,6 @@
 * text=auto
 
 # Linguist
+*.html linguist-detectable=false
+*.htm linguist-detectable=false
 *.html linguist-vendored
