@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\_dev\01 - Altium\altium-projects\FV-1\Delay\Delay.PcbDoc
-Date     : 8/3/2021
-Time     : 3:49:38 PM
+Date     : 8/9/2021
+Time     : 7:29:52 PM
 
 Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
 Rule Violations :0
@@ -77,4 +77,4 @@ Rule Violations :0
 
 Violations Detected : 23
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
